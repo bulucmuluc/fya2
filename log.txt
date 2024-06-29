@@ -1,0 +1,1375 @@
+2024-06-23 11:18:25,452 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-23 11:18:25,452 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:18:25,511 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 11:18:27,147 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 11:18:27,147 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 11:18:27,163 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:18:27,229 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 11:18:27,229 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:18:27,523 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:18:27,523 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:18:27,523 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:18:27,523 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:18:27,523 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:18:27,596 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 11:18:27,596 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 11:18:27,596 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 11:18:27,596 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 11:18:27,596 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-23 11:18:27,596 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:18:27,661 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:18:29,149 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 11:18:29,149 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 11:18:29,149 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:18:29,226 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:18:29,226 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:18:29,610 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:18:29,610 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:18:29,610 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:18:29,610 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:18:29,610 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:18:32,031 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:18:32,415 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:18:32,415 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:18:32,430 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:18:32,597 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:18:32,597 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:18:32,597 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:18:32,860 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:19:16,809 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:19:16,876 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:19:16,876 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:19:17,218 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:19:17,218 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:19:17,218 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:19:17,226 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:19:17,226 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:19:18,884 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:19:19,093 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:19:19,093 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:19:19,109 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:19:19,163 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:19:19,163 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:19:19,163 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:19:19,476 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:19:19,559 - __main__ - ERROR - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it (caused by "messages.SendMessage")
+2024-06-23 11:22:03,688 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 11:22:03,688 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 11:22:03,688 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 11:22:03,688 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 11:22:03,688 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:22:03,757 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:22:03,757 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:22:04,028 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:22:04,028 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:22:04,028 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:22:04,028 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:22:04,028 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:22:18,698 - pyrogram.session.session - INFO - [1] Retrying "messages.SendMessage" due to: Request timed out
+2024-06-23 11:29:58,071 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:29:58,133 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:29:58,138 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:29:58,431 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:29:58,431 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:29:58,431 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:29:58,431 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:29:58,431 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:30:00,350 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:30:00,648 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:30:00,648 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:30:00,648 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:30:00,710 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:30:00,710 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:30:00,710 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:30:01,291 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:35:38,601 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:35:38,701 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:35:38,701 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:35:39,317 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:35:39,317 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:35:39,317 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:35:39,317 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:35:39,333 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:35:41,229 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:35:41,529 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:35:41,529 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:35:41,529 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:35:41,612 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:35:41,612 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:35:41,612 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:35:42,612 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:37:25,808 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:37:25,922 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:37:25,922 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:37:26,439 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:37:26,439 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:37:26,439 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:37:26,439 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:37:26,439 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:37:28,132 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:37:28,401 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:37:28,401 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:37:28,401 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:37:28,488 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:37:28,488 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:37:28,492 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:37:29,000 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:41:56,864 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:41:56,972 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:41:56,972 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:41:57,499 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:41:57,499 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:41:57,499 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:41:57,499 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:41:57,499 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:41:59,101 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:41:59,341 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:41:59,341 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:41:59,341 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:41:59,414 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:41:59,414 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:41:59,414 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:41:59,934 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:51:51,821 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:51:51,937 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:51:51,937 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:51:52,340 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:51:52,340 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:51:52,340 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:51:52,340 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:51:52,340 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:51:54,201 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:51:54,491 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:51:54,491 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:51:54,500 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:51:54,633 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:51:54,633 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:51:54,633 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:51:54,999 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 11:54:01,274 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 11:54:01,362 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 11:54:01,362 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 11:54:02,092 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 11:54:02,092 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 11:54:02,092 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 11:54:02,092 - pyrogram.session.session - INFO - Session started
+2024-06-23 11:54:02,092 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 11:54:03,800 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 11:54:04,092 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 11:54:04,092 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 11:54:04,092 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 11:54:04,182 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 11:54:04,182 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 11:54:04,190 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 11:54:04,639 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-06-23 12:14:19,658 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-23 12:14:19,658 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:14:19,845 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:14:22,120 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:14:22,120 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:14:22,139 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:14:22,283 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:14:22,283 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:14:22,805 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:14:22,805 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:14:22,805 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:14:22,805 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:14:22,805 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:14:22,900 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 12:14:22,900 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:14:22,900 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:14:22,900 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:14:22,925 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-23 12:14:22,925 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:14:23,001 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:14:24,576 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:14:24,576 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:14:24,598 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:14:24,743 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:14:24,743 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:14:25,163 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:14:25,163 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:14:25,163 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:14:25,163 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:14:25,171 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:14:27,267 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:14:27,546 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:14:27,554 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:14:27,554 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:14:27,624 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:14:27,624 - pyrogram.client - INFO - [fya] Successfully loaded 5 plugins from "func"
+2024-06-23 12:14:27,624 - pyrogram.dispatcher - INFO - Started 343 HandlerTasks
+2024-06-23 12:14:27,929 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:15:10,582 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:10,717 - pyrogram.connection.connection - INFO - Connected! Production DC4 (media) - IPv4
+2024-06-23 12:15:10,725 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:11,231 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:15:11,239 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:15:11,239 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:15:11,239 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:15:11,239 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:15:11,847 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 12:15:11,847 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:11,847 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:11,847 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:11,863 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:11,954 - pyrogram.connection.connection - INFO - Connected! Production DC4 (media) - IPv4
+2024-06-23 12:15:11,955 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:12,362 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:15:12,362 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:15:12,362 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:15:12,362 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:15:12,370 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:15:20,435 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:21,388 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 12:15:21,388 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:21,429 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:21,470 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:21,621 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:21,646 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:28,925 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:28,958 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:28,990 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:29,027 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:29,222 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:29,254 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:34,374 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:34,403 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:34,435 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:34,484 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:34,654 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:34,677 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:39,884 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:39,909 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:39,941 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:39,989 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:40,158 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:40,191 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:45,507 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:45,539 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:45,584 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:45,654 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:45,842 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:45,874 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:51,119 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:51,151 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:51,184 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:51,241 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:51,402 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:51,434 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:15:56,871 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:15:56,904 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:15:56,904 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:15:56,928 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:15:57,124 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:15:57,156 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:02,965 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:03,011 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:03,036 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:03,055 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:03,177 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:03,211 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:08,614 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:08,645 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:08,667 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:08,700 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:08,825 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:08,840 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:14,114 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:14,146 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:14,166 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:14,213 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:14,372 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:14,403 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:19,873 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:19,888 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:19,920 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:19,970 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:20,144 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:20,162 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:25,561 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:25,577 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:25,602 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:25,635 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:25,801 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:25,814 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:31,233 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:31,248 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:31,273 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:31,282 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:31,432 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:31,464 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:37,038 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:37,071 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:37,103 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:37,159 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:37,281 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:37,307 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:42,778 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:42,812 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:42,837 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:42,905 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:43,070 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:43,102 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:48,503 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:48,520 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:48,553 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:48,588 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:48,761 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:48,803 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:54,116 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:54,148 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:54,168 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:54,200 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:16:54,369 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:16:54,397 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:16:59,882 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:16:59,916 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:16:59,925 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:16:59,982 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:00,182 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:00,215 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:05,526 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:05,550 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:05,578 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:05,642 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:05,752 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:05,768 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:11,462 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:11,486 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:11,518 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:11,561 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:11,745 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:11,779 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:17,026 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:17,042 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:17,067 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:17,110 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:17,268 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:17,285 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:22,590 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:22,624 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:22,667 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:22,708 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:22,867 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:22,892 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:28,313 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:28,345 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:28,373 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:28,384 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:28,522 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:28,556 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:33,782 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:33,806 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:33,837 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:33,858 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:34,017 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:34,048 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:39,167 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:39,202 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:39,227 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:39,259 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:39,429 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:39,450 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:44,853 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:44,884 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:44,893 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:44,950 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:45,066 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:45,101 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:50,511 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:50,549 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:50,580 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:50,619 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:50,765 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:50,798 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:17:56,168 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:17:56,178 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:17:56,214 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:17:56,279 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:17:56,413 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:17:56,436 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:18:01,603 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:18:01,635 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:18:01,661 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:18:01,728 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:18:01,935 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:18:01,966 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:18:07,097 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:18:07,128 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:18:07,143 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:18:07,163 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:18:07,316 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:18:07,348 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:18:12,448 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:18:12,477 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:18:12,507 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:18:12,574 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:18:12,707 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:18:12,747 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:18:14,284 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:18:14,284 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:18:14,284 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:18:14,284 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:18:14,284 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:20:00,082 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:20:00,147 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:20:00,147 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:20:00,459 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:20:00,459 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:20:00,459 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:20:00,459 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:20:00,459 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:20:02,161 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:20:02,394 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:20:02,394 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:20:02,404 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:20:02,465 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:20:02,868 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:20:51,489 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:20:51,609 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:20:51,609 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:20:52,309 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:20:52,309 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:20:52,309 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:20:52,309 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:20:52,309 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:20:54,239 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:20:54,472 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:20:54,472 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:20:54,472 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:20:54,536 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:20:55,096 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:31:02,630 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:31:02,842 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:31:02,847 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:31:03,565 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:31:03,565 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:31:03,565 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:31:03,565 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:31:03,573 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:31:05,935 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:31:06,160 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:31:06,160 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:31:06,160 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:31:06,231 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:31:06,529 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:32:50,099 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-23 12:32:50,099 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:32:50,166 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:32:51,835 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:32:51,835 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:32:51,863 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:32:51,999 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:32:51,999 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:32:52,418 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:32:52,418 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:32:52,418 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:32:52,418 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:32:52,422 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:32:52,511 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 12:32:52,519 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:32:52,519 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:32:52,519 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:32:52,529 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-23 12:32:52,537 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:32:52,717 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:32:54,495 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:32:54,495 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:32:54,518 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:32:54,661 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:32:54,661 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:32:55,280 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:32:55,280 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:32:55,280 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:32:55,280 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:32:55,280 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:32:57,259 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:32:57,533 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:32:57,533 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:32:57,533 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:32:57,610 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:32:58,036 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:36:54,969 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-23 12:36:54,969 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:36:55,102 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:36:57,189 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:36:57,189 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:36:57,205 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:36:57,562 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-23 12:36:57,564 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:36:57,966 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:36:57,974 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:36:57,974 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:36:57,974 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:36:57,974 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:36:58,074 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-23 12:36:58,074 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-23 12:36:58,074 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:36:58,074 - pyrogram.session.session - INFO - Session stopped
+2024-06-23 12:36:58,097 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-23 12:36:58,097 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:36:58,275 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:36:59,867 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-23 12:36:59,883 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-23 12:36:59,891 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:37:00,174 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:37:00,174 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:37:00,999 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:37:00,999 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:37:00,999 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:37:00,999 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:37:00,999 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:37:03,179 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:37:03,456 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:37:03,456 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:37:03,456 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:37:03,538 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:37:03,909 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:37:54,205 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:37:54,382 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:37:54,390 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:37:54,909 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:37:54,909 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:37:54,909 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:37:54,909 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:37:54,909 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:37:56,677 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:37:56,950 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:37:56,950 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:37:56,950 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:37:57,030 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:37:57,457 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-23 12:39:25,313 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-23 12:39:25,424 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-23 12:39:25,424 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-23 12:39:25,932 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-23 12:39:25,932 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-23 12:39:25,932 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-23 12:39:25,932 - pyrogram.session.session - INFO - Session started
+2024-06-23 12:39:25,947 - pyrogram.session.session - INFO - PingTask started
+2024-06-23 12:39:27,654 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-23 12:39:27,977 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-23 12:39:27,977 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-23 12:39:27,977 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-23 12:39:28,045 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-23 12:39:28,392 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:25:04,680 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-24 16:25:04,680 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:25:04,997 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 16:25:06,215 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 16:25:06,215 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:25:06,232 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:25:06,313 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 16:25:06,313 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:25:06,670 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:25:06,670 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:25:06,670 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:25:06,670 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:25:06,670 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:25:06,767 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-24 16:25:06,767 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-24 16:25:06,768 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:25:06,769 - pyrogram.session.session - INFO - Session stopped
+2024-06-24 16:25:06,775 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-24 16:25:06,776 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:25:06,910 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:25:08,356 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 16:25:08,356 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:25:08,366 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:25:08,412 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:25:08,427 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:25:08,716 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:25:08,716 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:25:08,716 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:25:08,716 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:25:08,716 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:25:10,993 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:25:11,297 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:25:11,297 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:25:11,313 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:25:11,433 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:25:12,125 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:41:12,233 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:41:12,295 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:41:12,295 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:41:12,576 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:41:12,576 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:41:12,576 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:41:12,576 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:41:12,576 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:41:13,900 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:41:14,072 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:41:14,072 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:41:14,072 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:41:14,150 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:41:14,619 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:46:58,840 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:46:58,887 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:46:58,887 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:46:59,251 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:46:59,251 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:46:59,251 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:46:59,251 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:46:59,251 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:47:00,364 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:47:00,458 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:47:00,458 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:47:00,474 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:47:00,481 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:47:00,747 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:51:21,876 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:51:22,219 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:51:22,219 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:51:22,984 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:51:22,984 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:51:22,984 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:51:22,984 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:51:23,000 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:51:24,151 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:51:24,255 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:51:24,255 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:51:24,255 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:51:24,290 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:51:24,572 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:53:54,970 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-24 16:53:54,985 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:53:55,038 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 16:53:56,279 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 16:53:56,279 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:53:56,304 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:53:56,371 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 16:53:56,371 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:53:56,718 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:53:56,718 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:53:56,718 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:53:56,718 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:53:56,718 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:53:56,803 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-24 16:53:56,803 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-24 16:53:56,803 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:53:56,803 - pyrogram.session.session - INFO - Session stopped
+2024-06-24 16:53:56,823 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-24 16:53:56,824 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:53:56,889 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:53:58,214 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 16:53:58,214 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 16:53:58,227 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:53:58,289 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:53:58,289 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:53:58,716 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:53:58,716 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:53:58,716 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:53:58,716 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:53:58,716 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:53:59,995 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:54:00,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:54:00,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:54:00,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:54:00,142 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:54:00,420 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 16:57:34,714 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 16:57:34,762 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 16:57:34,762 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 16:57:35,109 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 16:57:35,109 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 16:57:35,109 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 16:57:35,109 - pyrogram.session.session - INFO - Session started
+2024-06-24 16:57:35,109 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 16:57:36,197 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 16:57:36,308 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 16:57:36,309 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 16:57:36,311 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 16:57:36,331 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 16:57:36,776 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:04:38,552 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-24 17:04:38,552 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:04:38,618 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 17:04:40,137 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 17:04:40,138 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:04:40,147 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:04:40,201 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 17:04:40,201 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:04:40,490 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:04:40,490 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:04:40,490 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:04:40,506 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:04:40,506 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:04:40,584 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-24 17:04:40,584 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-24 17:04:40,584 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:04:40,584 - pyrogram.session.session - INFO - Session stopped
+2024-06-24 17:04:40,605 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-24 17:04:40,605 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:04:40,667 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:04:42,042 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 17:04:42,042 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:04:42,057 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:04:42,117 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:04:42,117 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:04:42,405 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:04:42,405 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:04:42,405 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:04:42,405 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:04:42,405 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:04:43,547 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:04:43,679 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:04:43,679 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:04:43,679 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:04:43,702 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:04:43,965 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:49:25,894 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:49:26,887 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:49:26,887 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:49:27,179 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:49:27,179 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:49:27,179 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:49:27,179 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:49:27,179 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:49:28,437 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:49:28,568 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:49:28,569 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:49:28,572 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:49:28,595 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:49:28,835 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:51:06,485 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:51:06,553 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:51:06,553 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:51:06,888 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:51:06,888 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:51:06,888 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:51:06,888 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:51:06,888 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:51:08,109 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:51:08,216 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:51:08,216 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:51:08,217 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:51:08,237 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:51:08,615 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:53:11,436 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:53:11,492 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:53:11,492 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:53:11,780 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:53:11,780 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:53:11,780 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:53:11,780 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:53:11,780 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:53:12,834 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:53:12,956 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:53:12,956 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:53:12,956 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:53:12,976 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:53:13,247 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:54:21,152 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-24 17:54:21,152 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:54:21,218 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 17:54:22,882 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 17:54:22,882 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:54:22,903 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:54:22,969 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-24 17:54:22,969 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:54:23,260 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:54:23,260 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:54:23,260 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:54:23,260 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:54:23,260 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:54:23,335 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-24 17:54:23,335 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-24 17:54:23,335 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:54:23,335 - pyrogram.session.session - INFO - Session stopped
+2024-06-24 17:54:23,358 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-24 17:54:23,358 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:54:23,420 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:54:24,956 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-24 17:54:24,956 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-24 17:54:24,975 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:54:25,036 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:54:25,036 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:54:25,599 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:54:25,599 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:54:25,600 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:54:25,600 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:54:25,600 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:54:26,962 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:54:27,082 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:54:27,083 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:54:27,086 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:54:27,103 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:54:27,423 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:56:41,905 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:56:41,973 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:56:41,973 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:56:42,299 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:56:42,299 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:56:42,299 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:56:42,299 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:56:42,299 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:56:43,389 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:56:43,502 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:56:43,502 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:56:43,502 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:56:43,532 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:56:43,820 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 17:58:23,169 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 17:58:23,254 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 17:58:23,255 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 17:58:23,552 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 17:58:23,552 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 17:58:23,552 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 17:58:23,552 - pyrogram.session.session - INFO - Session started
+2024-06-24 17:58:23,552 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 17:58:24,572 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 17:58:24,701 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 17:58:24,701 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 17:58:24,701 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 17:58:24,723 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 17:58:24,969 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:03:39,546 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:03:39,698 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:03:39,698 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:03:40,326 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:03:40,326 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:03:40,326 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:03:40,326 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:03:40,326 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:03:42,304 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:03:42,494 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:03:42,494 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:03:42,510 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:03:42,546 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:03:43,593 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:05:28,225 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:05:28,339 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:05:28,339 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:05:28,961 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:05:28,961 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:05:28,961 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:05:28,961 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:05:28,961 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:05:30,852 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:05:31,060 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:05:31,060 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:05:31,060 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:05:31,110 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:05:32,245 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:10:04,414 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:10:04,513 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:10:04,513 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:10:05,329 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:10:05,329 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:10:05,344 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:10:05,344 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:10:05,350 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:10:07,711 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:10:07,910 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:10:07,911 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:10:07,911 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:10:07,945 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:10:08,312 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:11:28,275 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:11:28,383 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:11:28,383 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:11:29,205 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:11:29,205 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:11:29,205 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:11:29,205 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:11:29,205 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:11:31,062 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:11:31,251 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:11:31,251 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:11:31,267 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:11:31,316 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:11:32,276 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:12:39,626 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:12:39,750 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:12:39,750 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:12:40,372 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:12:40,372 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:12:40,372 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:12:40,372 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:12:40,372 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:12:42,426 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:12:42,626 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:12:42,626 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:12:42,626 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:12:42,676 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:12:43,244 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:14:50,816 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:14:50,935 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:14:50,935 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:14:51,449 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:14:51,449 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:14:51,449 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:14:51,449 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:14:51,449 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:14:53,336 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:14:53,541 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:14:53,541 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:14:53,541 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:14:53,598 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:14:53,999 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:16:54,106 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:16:54,212 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:16:54,212 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:16:54,959 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:16:54,959 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:16:54,959 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:16:54,959 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:16:54,959 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:16:56,946 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:16:57,140 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:16:57,140 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:16:57,140 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:16:57,193 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:16:57,801 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:19:08,959 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:19:09,083 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:19:09,083 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:19:09,600 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:19:09,600 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:19:09,600 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:19:09,600 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:19:09,600 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:19:11,491 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:19:11,692 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:19:11,692 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:19:11,692 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:19:11,741 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:19:12,263 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:23:33,971 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:23:34,085 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:23:34,100 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:23:34,609 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:23:34,609 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:23:34,609 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:23:34,609 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:23:34,609 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:23:36,425 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:23:36,618 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:23:36,618 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:23:36,634 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:23:36,679 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:23:37,167 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:24:16,987 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:24:17,104 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:24:17,104 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:24:17,520 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:24:17,520 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:24:17,520 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:24:17,520 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:24:17,520 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:24:19,396 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:24:19,602 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:24:19,602 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:24:19,602 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:24:19,641 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:24:20,997 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:25:08,502 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:25:08,610 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:25:08,610 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:25:09,117 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:25:09,117 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:25:09,117 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:25:09,117 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:25:09,133 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:25:10,910 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:25:11,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:25:11,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:25:11,105 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:25:11,154 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:25:11,582 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:27:03,382 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:27:03,508 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:27:03,508 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:27:04,220 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:27:04,220 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:27:04,220 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:27:04,220 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:27:04,220 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:27:06,232 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:27:06,430 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:27:06,430 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:27:06,430 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:27:06,480 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:27:07,183 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:28:10,874 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:28:10,990 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:28:10,990 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:28:11,506 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:28:11,506 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:28:11,506 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:28:11,506 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:28:11,506 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:28:13,295 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:28:13,499 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:28:13,506 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:28:13,506 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:28:13,544 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:28:14,578 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:32:05,492 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:32:05,585 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:32:05,585 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:32:06,099 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:32:06,099 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:32:06,099 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:32:06,099 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:32:06,099 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:32:07,992 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:32:08,192 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:32:08,192 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:32:08,202 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:32:08,242 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:32:08,765 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:33:31,185 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:33:31,289 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:33:31,289 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:33:31,911 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:33:31,911 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:33:31,911 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:33:31,911 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:33:31,926 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:33:33,834 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:33:34,015 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:33:34,015 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:33:34,015 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:33:34,050 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:33:34,496 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-24 18:35:44,334 - pyrogram.dispatcher - ERROR - Exceeded 30 redirects.
+Traceback (most recent call last):
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\komutparser.py", line 40, in dl
+    await siram(bot, message)
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\komutparser.py", line 251, in siram
+    await decrypt.decrypt(dwn_list, content_type, i, title, platform,
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\decrypt.py", line 124, in decrypt
+    module.adapt_decryption()
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\platforms\exxen.py", line 555, in adapt_decryption
+    select_user = session.post(profile_url + profile_id, cookies=cookies,proxies=proxies)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 724, in send
+    history = [resp for resp in gen]
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 191, in resolve_redirects
+    raise TooManyRedirects(
+requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyromod\listen\message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\komutparser.py", line 44, in dl
+    await on_task_complete(bot, message)
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\komutparser.py", line 21, in on_task_complete
+    await siram(bot, sira[0])
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\komutparser.py", line 251, in siram
+    await decrypt.decrypt(dwn_list, content_type, i, title, platform,
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\decrypt.py", line 124, in decrypt
+    module.adapt_decryption()
+  File "c:\Users\OGÜN GENÇER\Desktop\Projects\FYA\func\platforms\exxen.py", line 555, in adapt_decryption
+    select_user = session.post(profile_url + profile_id, cookies=cookies,proxies=proxies)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 724, in send
+    history = [resp for resp in gen]
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\OGÜN GENÇER\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 191, in resolve_redirects
+    raise TooManyRedirects(
+requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
+2024-06-24 18:36:41,868 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-24 18:36:42,121 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-24 18:36:42,121 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-24 18:36:43,412 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-24 18:36:43,412 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-24 18:36:43,412 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-24 18:36:43,412 - pyrogram.session.session - INFO - Session started
+2024-06-24 18:36:43,412 - pyrogram.session.session - INFO - PingTask started
+2024-06-24 18:36:45,821 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-24 18:36:46,000 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-24 18:36:46,000 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-24 18:36:46,000 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-24 18:36:46,050 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-24 18:36:47,510 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 12:25:47,693 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-06-26 12:25:47,693 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:25:47,755 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-26 12:25:49,007 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-26 12:25:49,007 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-26 12:25:49,030 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:25:49,092 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-06-26 12:25:49,092 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:25:49,459 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:25:49,459 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:25:49,459 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:25:49,459 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:25:49,459 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:25:49,591 - pyrogram.session.session - INFO - PingTask stopped
+2024-06-26 12:25:49,591 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-06-26 12:25:49,591 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-26 12:25:49,591 - pyrogram.session.session - INFO - Session stopped
+2024-06-26 12:25:49,599 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-06-26 12:25:49,599 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:25:49,659 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:25:50,901 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-06-26 12:25:50,901 - pyrogram.connection.connection - INFO - Disconnected
+2024-06-26 12:25:50,916 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:25:50,981 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:25:50,982 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:25:51,296 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:25:51,296 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:25:51,296 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:25:51,296 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:25:51,296 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:25:52,441 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 12:25:52,558 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 12:25:52,558 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 12:25:52,558 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 12:25:52,581 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 12:25:53,200 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 12:27:45,067 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:27:45,121 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:27:45,121 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:27:45,396 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:27:45,396 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:27:45,396 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:27:45,396 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:27:45,396 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:27:46,496 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 12:27:46,601 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 12:27:46,601 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 12:27:46,601 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 12:27:46,624 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 12:27:46,869 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 12:30:27,282 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:30:27,332 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:30:27,332 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:30:27,627 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:30:27,627 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:30:27,628 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:30:27,628 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:30:27,631 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:30:28,784 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 12:30:28,882 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 12:30:28,882 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 12:30:28,882 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 12:30:28,930 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 12:30:29,166 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 12:31:05,109 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:31:05,169 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:31:05,169 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:31:05,488 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:31:05,488 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:31:05,504 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:31:05,504 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:31:05,507 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:31:06,659 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 12:31:06,750 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 12:31:06,750 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 12:31:06,766 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 12:31:06,804 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 12:31:07,034 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 12:45:09,656 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 12:45:09,712 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 12:45:09,714 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 12:45:10,027 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 12:45:10,028 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 12:45:10,028 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 12:45:10,029 - pyrogram.session.session - INFO - Session started
+2024-06-26 12:45:10,033 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 12:45:11,195 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 12:45:11,294 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 12:45:11,294 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 12:45:11,297 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 12:45:11,333 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 12:45:12,004 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 13:13:36,790 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 13:13:36,866 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 13:13:36,866 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 13:13:37,152 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 13:13:37,153 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 13:13:37,153 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 13:13:37,153 - pyrogram.session.session - INFO - Session started
+2024-06-26 13:13:37,156 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 13:13:38,191 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 13:13:38,294 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 13:13:38,294 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 13:13:38,294 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 13:13:38,335 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 13:13:38,577 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 13:14:41,896 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 13:14:41,957 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 13:14:41,957 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 13:14:42,336 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 13:14:42,337 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 13:14:42,338 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 13:14:42,338 - pyrogram.session.session - INFO - Session started
+2024-06-26 13:14:42,340 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 13:14:43,418 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 13:14:43,521 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 13:14:43,521 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 13:14:43,521 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 13:14:43,562 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 13:14:43,952 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 13:15:55,836 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 13:15:55,906 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 13:15:55,907 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 13:15:56,226 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 13:15:56,226 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 13:15:56,226 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 13:15:56,226 - pyrogram.session.session - INFO - Session started
+2024-06-26 13:15:56,242 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 13:15:57,283 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 13:15:57,379 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 13:15:57,379 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 13:15:57,379 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 13:15:57,420 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 13:15:57,723 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 13:19:14,114 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 13:19:14,179 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 13:19:14,179 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 13:19:14,501 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 13:19:14,501 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 13:19:14,501 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 13:19:14,501 - pyrogram.session.session - INFO - Session started
+2024-06-26 13:19:14,501 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 13:19:15,553 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 13:19:15,646 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 13:19:15,646 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 13:19:15,646 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 13:19:15,697 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 13:19:15,945 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 13:20:10,415 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 13:20:10,482 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 13:20:10,482 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 13:20:10,806 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 13:20:10,806 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 13:20:10,806 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 13:20:10,806 - pyrogram.session.session - INFO - Session started
+2024-06-26 13:20:10,806 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 13:20:11,879 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 13:20:11,984 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 13:20:11,984 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 13:20:11,984 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 13:20:12,029 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 13:20:12,459 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:01:53,739 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:01:53,823 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:01:53,823 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:01:54,239 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:01:54,239 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:01:54,239 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:01:54,239 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:01:54,239 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:01:56,368 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:01:56,542 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:01:56,542 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:01:56,550 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:01:56,617 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:01:57,099 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:24:56,031 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:24:56,132 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:24:56,140 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:24:56,650 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:24:56,650 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:24:56,650 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:24:56,650 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:24:56,650 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:24:58,597 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:24:58,845 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:24:58,845 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:24:58,845 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:24:58,882 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:24:59,837 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:27:09,552 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:27:09,667 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:27:09,667 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:27:10,174 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:27:10,174 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:27:10,174 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:27:10,174 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:27:10,190 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:27:12,164 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:27:12,346 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:27:12,346 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:27:12,346 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:27:12,389 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:27:12,945 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:27:56,220 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:27:56,285 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:27:56,285 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:27:57,079 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:27:57,079 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:27:57,079 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:27:57,079 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:27:57,079 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:27:58,851 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:27:59,036 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:27:59,036 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:27:59,036 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:27:59,087 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:28:00,160 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:30:22,069 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:30:22,168 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:30:22,184 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:30:22,809 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:30:22,809 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:30:22,809 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:30:22,809 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:30:22,809 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:30:24,776 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:30:24,971 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:30:24,971 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:30:24,971 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:30:25,053 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:30:25,979 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-26 14:31:07,623 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-26 14:31:07,743 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-26 14:31:07,743 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-26 14:31:08,369 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-26 14:31:08,369 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-26 14:31:08,369 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-26 14:31:08,369 - pyrogram.session.session - INFO - Session started
+2024-06-26 14:31:08,369 - pyrogram.session.session - INFO - PingTask started
+2024-06-26 14:31:10,166 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-26 14:31:10,354 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-26 14:31:10,354 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-26 14:31:10,354 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-26 14:31:10,421 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-26 14:31:11,019 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
+2024-06-29 10:20:01,761 - pyrogram.connection.connection - INFO - Connecting...
+2024-06-29 10:20:01,845 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-06-29 10:20:01,853 - pyrogram.session.session - INFO - NetworkTask started
+2024-06-29 10:20:02,374 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-06-29 10:20:02,374 - pyrogram.session.session - INFO - Device: CPython 3.12.4 - Pyrogram 2.0.106
+2024-06-29 10:20:02,374 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-06-29 10:20:02,374 - pyrogram.session.session - INFO - Session started
+2024-06-29 10:20:02,374 - pyrogram.session.session - INFO - PingTask started
+2024-06-29 10:20:05,674 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-06-29 10:20:05,959 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-06-29 10:20:05,975 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-06-29 10:20:05,975 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-06-29 10:20:06,025 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-06-29 10:20:06,460 - __main__ - INFO - dbot with for Pyrogram v2.0.106 (Layer 158) started on dbot1233Bot. Premium False.
